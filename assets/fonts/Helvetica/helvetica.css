@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Helvetica Neue LT Ext Obl';
+    src: url('./HelveticaExtObl.otf'), url('./HelveticaExtObl.ttf');
+}
+
+@font-face {
+    font-family: 'Helvetica Neue Medium Extended';
+    src: url('./HelveticaMediumExtended.otf'), url('./HelveticaMediumExtended.ttf');
+}
+
+@font-face {
+    font-family: 'Helvetica Neue Medium ';
+    src: url('./HelveticaMedium.ttf'), url('./HelveticaMedium.otf');
+}
